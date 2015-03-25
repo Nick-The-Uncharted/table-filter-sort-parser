@@ -1,5 +1,5 @@
 # tablefiltersortparser
-parse expression to filter or sort table, based on MVEL
+parse expression to filter or sort table, need [MVEL](http://mvel.codehaus.org) dependency
 
 There are only two methods. Use them like:
 ```java
